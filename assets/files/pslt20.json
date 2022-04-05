@@ -1,0 +1,400 @@
+{
+	"schedule": [
+		{
+			"tarekh": "1st Match  27-jan-22",
+			"teamOne": "kk",
+			"teamTwo": "MS",
+			"flagOne": "assets/images/kk.png",
+			"flagTwo": "assets/images/ms.jpg",
+			"venue": "Karachi National Stadium",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "2nd Match  28-jan-22",
+			"teamOne": "QG",
+			"teamTwo": "PZ",
+			"flagOne": "assets/images/qg.png",
+			"flagTwo": "assets/images/pz.png",
+			"venue": "Karachi National Stadium",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "3rd Match  29-jan-22",
+			"teamOne": "MS",
+			"teamTwo": "LQ",
+			"flagOne": "assets/images/ms.jpg",
+			"flagTwo": "assets/images/lq.png",
+			"venue": "Karachi National Stadium",
+			"time": "2 PM"
+		},
+		{
+			"tarekh": "4th Match  29-jan-22",
+			"teamOne": "KK",
+			"teamTwo": "QG",
+			"flagOne": "assets/images/kk.png",
+			"flagTwo": "assets/images/qg.png",
+			"venue": "Karachi National Stadium",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 5  30-jan-22",
+			"teamOne": "PZ",
+			"teamTwo": "IU",
+			"flagOne": "assets/images/pz.png",
+			"flagTwo": "assets/images/iu.jpg",
+			"venue": "Karachi National Stadium",
+			"time": "2 PM"
+		},
+		{
+			"tarekh": "Match 6  30-jan-22",
+			"teamOne": "KK",
+			"teamTwo": "LQ",
+			"flagOne": "assets/images/kk.png",
+			"flagTwo": "assets/images/lq.png",
+			"venue": "Karachi National Stadium",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 7  31-jan-22",
+			"teamOne": "QG",
+			"teamTwo": "MS",
+			"flagOne": "assets/images/qg.png",
+			"flagTwo": "assets/images/ms.jpg",
+			"venue": "Karachi National Stadium",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 8  1-feb-22",
+			"teamOne": "IU",
+			"teamTwo": "MS",
+			"flagOne": "assets/images/iu.jpg",
+			"flagTwo": "assets/images/ms.jpg",
+			"venue": "Karachi National Stadium",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 9  2-feb-22",
+			"teamOne": "PZ",
+			"teamTwo": "LQ",
+			"flagOne": "assets/images/pz.png",
+			"flagTwo": "assets/images/lq.png",
+			"venue": "Karachi National Stadium",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 10  3-feb-22",
+			"teamOne": "QG",
+			"teamTwo": "IU",
+			"flagOne": "assets/images/qg.png",
+			"flagTwo": "assets/images/iu.jpg",
+			"venue": "Karachi National Stadium",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 11  4-feb-22",
+			"teamOne": "KK",
+			"teamTwo": "PZ",
+			"flagOne": "assets/images/kk.png",
+			"flagTwo": "assets/images/pz.png",
+			"venue": "Karachi National Stadium",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 12  5-feb-22",
+			"teamOne": "IU",
+			"teamTwo": "LQ",
+			"flagOne": "assets/images/iu.jpg",
+			"flagTwo": "assets/images/lq.png",
+			"venue": "Karachi National Stadium",
+			"time": "2 PM"
+		},
+		{
+			"tarekh": "Match 13  5-feb-22",
+			"teamOne": "PZ",
+			"teamTwo": "MS",
+			"flagOne": "assets/images/pz.png",
+			"flagTwo": "assets/images/ms.jpg",
+			"venue": "Karachi National Stadium",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 14  6-feb-22",
+			"teamOne": "KK",
+			"teamTwo": "IU",
+			"flagOne": "assets/images/kk.png",
+			"flagTwo": "assets/images/iu.jpg",
+			"venue": "Karachi National Stadium",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 15  7-feb-22",
+			"teamOne": "QG",
+			"teamTwo": "LQ",
+			"flagOne": "assets/images/qg.png",
+			"flagTwo": "assets/images/lq.png",
+			"venue": "Karachi National Stadium",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 16  10-feb-22",
+			"teamOne": "MS",
+			"teamTwo": "PZ",
+			"flagOne": "assets/images/ms.jpg",
+			"flagTwo": "assets/images/pz.png",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 17  11-feb-22",
+			"teamOne": "LQ",
+			"teamTwo": "MS",
+			"flagOne": "assets/images/lq.png",
+			"flagTwo": "assets/images/ms.jpg",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 18  12-feb-22",
+			"teamOne": "IU",
+			"teamTwo": "QG",
+			"flagOne": "assets/images/iu.jpg",
+			"flagTwo": "assets/images/qg.png",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 19  13-feb-22",
+			"teamOne": "PZ",
+			"teamTwo": "KK",
+			"flagOne": "assets/images/pz.png",
+			"flagTwo": "assets/images/kk.png",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "2 PM"
+		},
+		{
+			"tarekh": "Match 20  13-feb-22",
+			"teamOne": "LQ",
+			"teamTwo": "QG",
+			"flagOne": "assets/images/lq.png",
+			"flagTwo": "assets/images/qg.png",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 21  14-feb-22",
+			"teamOne": "IU",
+			"teamTwo": "KK",
+			"flagOne": "assets/images/iu.jpg",
+			"flagTwo": "assets/images/kk.png",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 22  15-feb-22",
+			"teamOne": "PZ",
+			"teamTwo": "QG",
+			"flagOne": "assets/images/pz.png",
+			"flagTwo": "assets/images/qg.png",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 23  16-feb-22",
+			"teamOne": "MS",
+			"teamTwo": "KK",
+			"flagOne": "assets/images/ms.jpg",
+			"flagTwo": "assets/images/kk.png",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 24  17-feb-22",
+			"teamOne": "IU",
+			"teamTwo": "PZ",
+			"flagOne": "assets/images/iu.jpg",
+			"flagTwo": "assets/images/pz.png",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 25  18-feb-22",
+			"teamOne": "MS",
+			"teamTwo": "QG",
+			"flagOne": "assets/images/ms.jpg",
+			"flagTwo": "assets/images/qg.png",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "3 PM"
+		},
+		{
+			"tarekh": "Match 26  18-feb-22",
+			"teamOne": "LQ",
+			"teamTwo": "KK",
+			"flagOne": "assets/images/lq.png",
+			"flagTwo": "assets/images/kk.png",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "8 PM"
+		},
+		{
+			"tarekh": "Match 27  19-feb-22",
+			"teamOne": "LQ",
+			"teamTwo": "IU",
+			"flagOne": "assets/images/lq.png",
+			"flagTwo": "assets/images/iu.jpg",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 28  20-feb-22",
+			"teamOne": "QG",
+			"teamTwo": "KK",
+			"flagOne": "assets/images/qg.png",
+			"flagTwo": "assets/images/kk.png",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "2 PM"
+		},
+		{
+			"tarekh": "Match 29  20-feb-22",
+			"teamOne": "MS",
+			"teamTwo": "IU",
+			"flagOne": "assets/images/ms.jpg",
+			"flagTwo": "assets/images/iu.jpg",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 30  21-feb-22",
+			"teamOne": "LQ",
+			"teamTwo": "PZ",
+			"flagOne": "assets/images/lq.png",
+			"flagTwo": "assets/images/pz.png",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 31 Play-off 23-feb-22",
+			"teamOne": "TBD",
+			"teamTwo": "TBD",
+			"flagOne": "assets/images/dp.jpg",
+			"flagTwo": "assets/images/dp.jpg",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 32 Play-off 24-feb-22",
+			"teamOne": "TBD",
+			"teamTwo": "TBD",
+			"flagOne": "assets/images/dp.jpg",
+			"flagTwo": "assets/images/dp.jpg",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 33 Play-off 25-feb-22",
+			"teamOne": "TBD",
+			"teamTwo": "TBD",
+			"flagOne": "assets/images/dp.jpg",
+			"flagTwo": "assets/images/dp.jpg",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "7 PM"
+		},
+		{
+			"tarekh": "Match 34 Final 27-feb-22",
+			"teamOne": "TBD",
+			"teamTwo": "TBD",
+			"flagOne": "assets/images/dp.jpg",
+			"flagTwo": "assets/images/dp.jpg",
+			"venue": "Gaddafi Stadium Lahore",
+			"time": "7 PM"
+		}
+	],
+	"venues":[
+		{
+			"city": "KARACHI",
+			"stadium": "National Stadium Karachi",
+			"image" : "assets/images/ks.jpg"
+		},
+		{
+			"city": "LAHORE",
+			"stadium": "Gaddafi Stadium Lahore",
+			"image" : "assets/images/ls.jpg"
+		}
+
+	],
+	"teams": [
+		{
+			"fullName" : "Peshawar \n Zalmi",
+			"flag" : "assets/images/pz.png"
+		},
+		{
+			"fullName" : "Quetta \n Gladiators",
+			"flag" : "assets/images/qg.png"
+		},
+		{
+			"fullName" : "Islamabad \n United",
+			"flag" : "assets/images/iu.jpg"
+		},
+		{
+			"fullName" : "Karachi \n Kings",
+			"flag" : "assets/images/kk.png"
+		},
+		{
+			"fullName" : "Lahore \n Qalandar",
+			"flag" : "assets/images/lq.png"
+		},
+		{
+			"fullName" : "Multan \n Sultan",
+			"flag" : "assets/images/ms.jpg"
+		}
+	],
+	"history": [
+		{
+			"winner": "IU",
+			"runnerUp":"QG",
+			"host": "UAE",
+			"winnerFlag": "assets/images/iu.jpg",
+			"runnerUpFlag": "assets/images/qg.png",
+			"year": "2016"
+		},
+		{
+			"winner": "PZ",
+			"runnerUp": "QG",
+			"host": "PAKISTAN",
+			"winnerFlag": "assets/images/pz.png",
+			"runnerUpFlag": "assets/images/qg.png",
+			"year": "2017"
+		},
+		{
+			"winner": "IU",
+			"runnerUp": "PZ",
+			"host": "PAKISTAN",
+			"winnerFlag": "assets/images/iu.jpg",
+			"runnerUpFlag": "assets/images/pz.png",
+			"year": "2018"
+		},
+		{
+			"winner": "QG",
+			"runnerUp": "PZ",
+			"host": "PAKISTAN",
+			"winnerFlag": "assets/images/qg.png",
+			"runnerUpFlag": "assets/images/pz.png",
+			"year": "2019"
+		},
+		{
+			"winner": "KK ",
+			"runnerUp": "LQ",
+			"host": "PAKISTAN",
+			"winnerFlag": "assets/images/kk.png",
+			"runnerUpFlag": "assets/images/lq.png",
+			"year": "2020"
+		},
+		{
+			"winner": "MS",
+			"runnerUp": "PZ",
+			"host": "PAKISTAN",
+			"winnerFlag": "assets/images/ms.jpg",
+			"runnerUpFlag": "assets/images/pz.png",
+			"year": "2021"
+		}
+
+	]
+}
